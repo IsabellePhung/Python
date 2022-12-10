@@ -1,2 +1,0 @@
-# Python
-Python final project
